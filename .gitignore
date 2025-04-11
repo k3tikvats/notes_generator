@@ -1,0 +1,6 @@
+/lectures
+/chroma_db
+/venv
+/.env
+/models/__pycache__
+/utils/__pycache__
